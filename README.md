@@ -4,6 +4,7 @@
 # ATRO: A Fast Algorithm for Topology Engineering of Reconfigurable DCNs
 
 [![Conference](https://img.shields.io/badge/INFOCOM%202025-Accepted-b31b1b.svg)](https://infocom.ieee.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18054616.svg)](https://doi.org/10.5281/zenodo.18054616)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
