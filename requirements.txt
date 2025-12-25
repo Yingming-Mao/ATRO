@@ -1,0 +1,13 @@
+numpy>=1.24
+scipy
+pandas
+scikit-learn
+matplotlib
+networkx
+bottleneck
+numexpr
+tqdm
+gurobipy==11.0.3
+# Critical versions for compatibility
+ortools==9.9.3963
+protobuf==4.25.3

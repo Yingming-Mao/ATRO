@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "ATRO: A Fast Algorithm for Topology Engineering of Reconfigurable Datacenter Networks"
+type: software
+authors:
+  - family-names: Mao
+    given-names: Yingming
+  - family-names: Zhai
+    given-names: Qiaozhu
+  - family-names: Liu
+    given-names: Ximeng
+  - family-names: Han
+    given-names: Xinchi
+  - family-names: Li
+    given-names: Fafan
+  - family-names: Zhao
+    given-names: Shizhen
+  - family-names: Zhou
+    given-names: Yuzhou
+  - family-names: Yao
+    given-names: Zhen
+  - family-names: Zhu
+    given-names: Xia
+preferred-citation:
+  type: article
+  title: "ATRO: A Fast Algorithm for Topology Engineering of Reconfigurable Datacenter Networks"
+  authors:
+    - family-names: Mao
+      given-names: Yingming
+    - family-names: Zhai
+      given-names: Qiaozhu
+    - family-names: Liu
+      given-names: Ximeng
+    - family-names: Han
+      given-names: Xinchi
+    - family-names: Li
+      given-names: Fafan
+    - family-names: Zhao
+      given-names: Shizhen
+    - family-names: Zhou
+      given-names: Yuzhou
+    - family-names: Yao
+      given-names: Zhen
+    - family-names: Zhu
+      given-names: Xia
+  year: 2025
+  identifiers:
+    - type: arXiv
+      value: 2507.13717
+      url: https://arxiv.org/abs/2507.13717
+  url: https://arxiv.org/abs/2507.13717

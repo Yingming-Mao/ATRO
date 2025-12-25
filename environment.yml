@@ -1,0 +1,26 @@
+name: ATRO
+channels:
+  - defaults
+dependencies:
+  # 基础环境
+  - python=3.8
+  - pip
+  
+  # 核心科学计算库 (交给 Conda 安装更优化的二进制版本)
+  - numpy>=1.24
+  - scipy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - networkx
+  - bottleneck
+  - numexpr
+  
+  # Pip 专属库 (锁定版本以解决 ABI 冲突)
+  - pip:
+      - tqdm
+      - gurobipy==11.0.3
+      # --- 关键修改 ---
+      # 使用 9.9 版本以配合 Protobuf 4.x，避免 Linux 下的符号丢失问题
+      - ortools==9.9.3963
+      - protobuf==4.25.3
